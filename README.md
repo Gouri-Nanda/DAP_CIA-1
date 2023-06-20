@@ -90,15 +90,25 @@ If we choose the option 1, we enter into the items menu. Here we can add, update
 
 If we choose the option 2, we enter into the items menu. Here we can add, update, delete, search adn display all the customer data.
 
+![Screenshot 2023-06-20 200619](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/55519572-9541-4a9f-8769-3f343879484c)
+![Screenshot 2023-06-20 200656](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/4533199f-f158-442f-9c5a-956029387666)
+![Screenshot 2023-06-20 200735](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/69786fb6-4451-469e-894b-dda988ad6fde)
+![WhatsApp Image 2023-06-20 at 20 11 48](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/e9988351-626a-46e4-96ee-8e479d5b71b5)
+![WhatsApp Image 2023-06-20 at 20 11 48](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/90afaa87-ff9c-4c77-a05a-471ee813444b)
+
+
+
 
 
 
 If we choose the option 3, we enter into the billing menu.
+![Screenshot 2023-06-20 201136](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/eeda3f65-1aa0-4784-995c-e527b76a06aa)
 
 
 
 
 If we choose 0, then we exit from the main programme.
+![Screenshot 2023-06-20 201212](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/180f0577-fbd8-4dc8-87fc-dc89909c8645)
 
 
 Business Application
