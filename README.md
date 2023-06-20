@@ -10,7 +10,9 @@ This project is user friendly and supermarket chains or individual stores are th
 
 
 Function Description:
+
 1.	Product function
+
 •	Add product: The function takes Item code, Item company, Item name, Price of the Item , stocks available of the item and date of purchase as input and add a record to the table in the database.
 
 •	Delete product: The function takes item name as input and searches for the record whose item name is same as the input and delete the record corresponding to it.
@@ -21,7 +23,8 @@ Function Description:
 
 •	Display product: The function displays all the item details as a dataframe.
 
-3. Customer Function
+2. Customer Function
+   
 •	Add product: The function takes Customer name and Customer score as input. The data will be added to customer score table in the SQL database.
 
 •	Delete product: The function takes customer name as the input and search for the record whose item name is same as the input and delete the record corresponding to it.
@@ -34,29 +37,41 @@ Function Description:
 
 
 3.Billing Function
+
 The function takes name of the product and quantity of the product purchased as iinput. The function then search for the record of the given input in database and retrieves back the data. This data is then used for calculating the amount and then the final total amount. This function also displays a dataframe consisting of item name, quantity, price and amount by the end and also prints the total amount to be paid.
 
 
 Intended Users:
+
 • Store Admin
+
 • Product Managers
+
 • End Users
 
 
 Software Requirements:
+
 • Windows 10 or newer
+
 • Python 3.7 or newer
+
 • MySQL 8.0 or newer
+
 • Pandas python library
+
 • MySQL Connector python library
 
 
 Program Execution
 When we run the program we're met with the Main Menu. From here we can choose the menu that we want to go to.
 
+![sm 1](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/12d4ff41-c168-415e-9def-fe9f58cfa2d7)
+
 
 If we choose the option 1, we enter into the items menu. Here we can add, update, delete, search adn display all the products.
 
+![sm2](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/f59177a7-e8ec-4599-8bc8-cc6ba94bcd82)
 
 
 
@@ -74,4 +89,5 @@ If we choose 0, then we exit from the main programme.
 
 
 Business Application
+
 The intended market consists of supermarket chains and independent retailers.They might use it to run their network of stores, keep accurate records, examine sales data, and boost profits. It would be convenient to sync all the data across many stores in various places since everything is online. This project aims in making these processes easier and provide a user friendly programme.
