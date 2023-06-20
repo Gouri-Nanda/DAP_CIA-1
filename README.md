@@ -1,7 +1,10 @@
 # DAP_CIA-1
 Data Analytics with Python CIA 1
+
 Gouri Nanda 22112009
+
 Taniya Anil 22112030
+
 
 
 Supermarket management system is the system where all aspects related to the management of supermarket are done. These aspects involve managing information about various products, staff managing the product data, staff information, customer information, billing etc. The system provides an efficient way to handle these information. 
@@ -72,6 +75,16 @@ When we run the program we're met with the Main Menu. From here we can choose th
 If we choose the option 1, we enter into the items menu. Here we can add, update, delete, search adn display all the products.
 
 ![sm2](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/f59177a7-e8ec-4599-8bc8-cc6ba94bcd82)
+![Screenshot 2023-06-20 200125](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/98370e40-809c-4f52-82b1-58eb29766b48)
+![Screenshot 2023-06-20 200227](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/6dd2de77-6bad-4b51-b89a-82f804ce506f)
+![Screenshot 2023-06-20 200318](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/0b7eb055-e246-4032-9ab0-0ddaca54fd5a)
+![Screenshot 2023-06-20 200351](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/0dcd0eef-fc0d-403a-9331-c178a19dd888)
+![WhatsApp Image 2023-06-20 at 20 06 23](https://github.com/Gouri-Nanda/DAP_CIA-1/assets/118895540/04e72eac-a840-48de-a7d0-c38ec565b080)
+
+
+
+
+
 
 
 
